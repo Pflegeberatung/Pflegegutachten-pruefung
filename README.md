@@ -51,7 +51,7 @@ Bewertungssystematik nach Anlagen 1 und 2 zu § 15 SGB XI, Stand November 2026. 
 
 ## Autor
 
-Andreas Rennhack, Buchholz i. d. Nordheide
+Andreas R., Buchholz i. d. Nordheide
 
 Rückmeldungen und Verbesserungsvorschläge gern über die Issues dieses Repositorys.
 
